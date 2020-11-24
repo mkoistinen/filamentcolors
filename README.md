@@ -85,3 +85,13 @@ the program will display a help page, and exit.
   progress of the code. This is typically used for debugging the code.
 - `--help` or `-h` will output a description of the program and its options
   then promptly exit.
+
+
+## Acknowledgements
+
+Big thanks to Joe Kaufeld [itsthejoker](https://github.com/itsthejoker)
+[@filamentcolors](https://twitter.com/filamentcolors) for creating and 
+supporting the [FilamentColors.xyz](https://filamentcolors.xyz) website!
+
+If you use it consider supporting his efforts on Patreon!
+
